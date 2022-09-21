@@ -1,0 +1,8 @@
+C:\Users\kudaj\source\repos\colculator\bin\Debug\colculator.exe.config
+C:\Users\kudaj\source\repos\colculator\bin\Debug\colculator.exe
+C:\Users\kudaj\source\repos\colculator\bin\Debug\colculator.pdb
+C:\Users\kudaj\source\repos\colculator\obj\Debug\colculator.csproj.AssemblyReference.cache
+C:\Users\kudaj\source\repos\colculator\obj\Debug\colculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\kudaj\source\repos\colculator\obj\Debug\colculator.csproj.CoreCompileInputs.cache
+C:\Users\kudaj\source\repos\colculator\obj\Debug\colculator.exe
+C:\Users\kudaj\source\repos\colculator\obj\Debug\colculator.pdb
